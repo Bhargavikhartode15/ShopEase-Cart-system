@@ -210,7 +210,7 @@ Source code can be demonstrated or shared upon request.
 
 Bhargavi Khartode
 
-B.E. Computer Science Engineering
+B.E. Computer Engineering
 Sinhgad College of Engineering, Pune
 
 ⭐ Thank you for visiting this project!
